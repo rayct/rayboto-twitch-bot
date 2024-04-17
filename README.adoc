@@ -1,0 +1,14 @@
+= RayBoto - Twitch Bot
+
+== A full featured Twitch bot you can add to your channel.
+
+=== Provides a simple moderation bot that can be added to your own Twitch channel.
+
+
+---
+
+**Documentation By:** Raymond C. TURNER
+
+**Revision** April 17th, 
+
+**codestak.io**
