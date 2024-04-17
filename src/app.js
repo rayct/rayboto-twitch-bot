@@ -172,7 +172,7 @@ function checkTwitchChat(userstate, message, channel) {
   shouldSendMessage = BLOCKED_WORDS.some(blockedWord => message.includes(blockedWord.toLowerCase()))
   if (shouldSendMessage) {
     // tell user
-    client.say(channel, `@${userstate.username}, Sorry!  Your message was deleted.`)
+    client.say(channel, `@${userstate.username}, Sorry! Your message was deleted.`)
     // delete message
     client.deletemessage(channel, userstate.id)
   }
