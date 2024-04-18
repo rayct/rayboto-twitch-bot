@@ -1,8 +1,8 @@
 = RayBoto - Twitch Bot
 
-== A full featured Twitch bot you can add to your channel.
+== A fully featured Twitch bot written in `JavaScript` and `NodeJS` you can add to your channel.
 
-=== Provides a simple moderation bot that can be added to your own Twitch channel.
+=== Provides a simple custom moderation bot that can be added to your own Twitch channel.
 
 
 ---
